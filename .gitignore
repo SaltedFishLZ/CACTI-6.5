@@ -1,0 +1,19 @@
+# preserve README
+!README
+
+# preserve makefile
+!Makefile
+!makefile
+!*.mk
+
+# preserve cacti configs
+*.cfg
+
+# preserve source codes
+!*.i
+!*.cc
+!*.hh
+!*.c
+!*.h
+!*.cpp
+!*.hpp
