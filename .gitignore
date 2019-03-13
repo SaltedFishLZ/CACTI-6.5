@@ -1,3 +1,5 @@
+*
+
 # preserve README
 !README
 
@@ -7,7 +9,7 @@
 !*.mk
 
 # preserve cacti configs
-*.cfg
+!*.cfg
 
 # preserve source codes
 !*.i
