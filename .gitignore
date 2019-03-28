@@ -9,7 +9,9 @@
 !*.mk
 
 # preserve cacti configs
-!*.cfg
+template.cfg
+cache.cfg
+dram.cfg
 
 # preserve source codes
 !*.i
